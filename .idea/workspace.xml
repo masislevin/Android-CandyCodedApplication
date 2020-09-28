@@ -164,42 +164,50 @@
       <option name="project" value="LOCAL" />
       <updated>1601289157507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Start the Google Maps Activity">
+      <created>1601289927765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601289927765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="onOptionsItemSelected - start info intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="onOptionsItemSelected - start info intent" />
+    <MESSAGE value="Start the Google Maps Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the Google Maps Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1601288673983">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1601288673983" />
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1601289155836">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1601289925511">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601289155836" />
-    <state width="1226" height="282" key="GridCell.Tab.0.bottom" timestamp="1601289868349">
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601289925511" />
+    <state width="1226" height="38" key="GridCell.Tab.0.bottom" timestamp="1601290161115">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1226" height="282" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601289868349" />
-    <state width="1226" height="282" key="GridCell.Tab.0.center" timestamp="1601289868349">
+    <state width="1226" height="38" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601290161115" />
+    <state width="1226" height="38" key="GridCell.Tab.0.center" timestamp="1601290161115">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1226" height="282" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601289868349" />
-    <state width="1226" height="282" key="GridCell.Tab.0.left" timestamp="1601289868349">
+    <state width="1226" height="38" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601290161115" />
+    <state width="1226" height="38" key="GridCell.Tab.0.left" timestamp="1601290161115">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1226" height="282" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601289868349" />
-    <state width="1226" height="282" key="GridCell.Tab.0.right" timestamp="1601289868349">
+    <state width="1226" height="38" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601290161115" />
+    <state width="1226" height="38" key="GridCell.Tab.0.right" timestamp="1601290161115">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1226" height="282" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601289868349" />
-    <state x="233" y="71" key="Vcs.Push.Dialog.v2" timestamp="1601289170644">
+    <state width="1226" height="38" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601290161115" />
+    <state x="233" y="71" key="Vcs.Push.Dialog.v2" timestamp="1601289936007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="71" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601289170644" />
+    <state x="233" y="71" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601289936007" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601289502732">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
